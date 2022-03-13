@@ -4,6 +4,8 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean id="person" class="com.github.Person">
-        <!-- collaborators and configuration for this bean go here -->
+<!--        The id attribute is a string that identifies the individual bean definition.-->
+<!--        The class attribute defines the type of the bean and uses the fully qualified classname.-->
     </bean>
+    <!-- more bean definitions for services go here -->
 </beans>
