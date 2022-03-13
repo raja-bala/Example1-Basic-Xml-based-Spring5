@@ -1,6 +1,6 @@
 # Example1-Basic-Xml-based-Spring5
 
-In this example we are going to develop a Spring application
+In this example we are going to develop a Spring application, without using Maven or Gradle 
   > Just to register a bean 
   > and Retrive it back from the Spring Context
   > We are going to use IntelliJ IDEA as out IDE
@@ -21,5 +21,9 @@ In this example we are going to develop a Spring application
 > - After copying, go to File -> Project Structure 
 > - And choose Modules section under Project Settings and click **Dependencies** tab
 > ![image](https://user-images.githubusercontent.com/100960077/158064157-73141bbe-7ca4-4edd-9758-38dc7703900e.png)
-> 
+> - Click the plus icon(+) Choose JARs or Directories
+> ![image](https://user-images.githubusercontent.com/100960077/158066333-f41898f1-926c-405a-850a-b94ff399c93b.png)
+> - Then Choose the /lib directory, where we have placed all the jar files
+> - Click Apply. Now all the Spring library available in your Project
+> - Just happlily proceed with project development
 
