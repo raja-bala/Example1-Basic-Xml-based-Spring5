@@ -27,3 +27,6 @@ In this example we are going to develop a Spring application, without using Mave
 > - Click Apply. Now all the Spring library available in your Project
 > - Just happlily proceed with project development
 
+# Note
+config.xml should be in src folder
+
