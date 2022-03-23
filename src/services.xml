@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="dbconnect" class="com.github.DBConnect">
+        <!--        The id attribute is a string that identifies the individual bean definition.-->
+        <!--        The class attribute defines the type of the bean and uses the fully qualified classname.-->
+    </bean>
+    <!-- more bean definitions for services go here -->
+</beans>
